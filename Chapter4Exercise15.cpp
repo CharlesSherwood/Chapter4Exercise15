@@ -59,7 +59,7 @@ int main()
 	
 	cout << setw(20) << fixed << setprecision(2) << "Your Total Shipping Cost is: $" << final << endl;
 	
-	
+	 
 	return 0;
 }
 
